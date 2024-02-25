@@ -1,2 +1,2 @@
-hello: hello.cpp
-	g++ hello.cpp -o hello
+hello: hello.cc
+	g++ hello.cc -o hello
